@@ -5,8 +5,12 @@
 body {
 justify-content: center;
 align-items: center;
-
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 0px;
 }
 .cover{
-    height: ;
+    background-image:url(images/pexels-photo.jpg);
+    height: 80px;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
