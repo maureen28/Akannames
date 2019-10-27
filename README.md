@@ -6,9 +6,10 @@ This application takes in a users' birthday and then depending on what day of th
 By *Maureen Wairimu.*
 
 ### Set-up Instructions
+You can clone the repo and open the index.html file using your google Chrome.
 
 
-### Behaviour Development
+### Behaviour Driven Development
 
 #### Technologies used;
 > HTML
