@@ -29,14 +29,14 @@ var month=document.getElementById('month').value;
 var year=document.getElementById('year').value;
 var gender=document.getElementById('gender').value;*/
 
-if (gender==1){
+if (gender==maleNames){
  alert (maleNames[day])
 }else{
     
 }
 
-if (gender==2){
- alert (femaleNames[day])
+if (gender==femaleNames){
+ document.findElementbyId
 }else{
 alert("Your akan name is")
 }
