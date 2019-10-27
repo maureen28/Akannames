@@ -3,7 +3,7 @@
     padding: 0;
 }
 body {
-background-image: url("/Images/asphalt-aspiration-clouds-215.jpg");
+background-image: url("/Images/afrika.jpg");
 background-position: center center;
 background-repeat: no-repeat;
 height: 100vh;
@@ -12,15 +12,16 @@ background-size: cover;
 
 h1{
     font-family:Frutiger W01;
-    font-size: 30px;
+    font-size: 40px;
     font-weight: bold;
     text-align: center;
     font-display: center;
 }
 
 p{
-    font-family:'Catamaran', sans-serif;;
-    font-weight: bold;
+    font-family:'Catamaran', sans-serif;
+    font-weight:inherit;
+    font-size: 25px;
     text-align: center;
     font-display: center;
 }
@@ -29,9 +30,6 @@ p{
     text-align: center;
     justify-items: center;
     font-size: 24px;
-    font-family: Frutiger W01;
-    line-height: 24px;
-    width: 100%;
-    font-weight: bold;
-
+    font-family:'Catamaran', sans-serif;
+    line-height:24px;
 }

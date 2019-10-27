@@ -15,8 +15,9 @@ var gender=document.getElementById('gender').value;*/
 if (gender==1){
  alert (maleNames[day])
 }else{
-alert("Your Akan name is")
+    
 }
+
 if (gender==2){
  alert (femaleNames[day])
 }else{
