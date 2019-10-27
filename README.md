@@ -13,7 +13,7 @@ You can clone the repo at https://github.com/maureen28/Akannames.git and open th
 
 ### BDD
 <ul>
-<li>Ensure that the date and month is valid</li>
+<li>Ensure that the date and month is valid.</li>
 <li>Output to their user an Akan Name depending on their gender and should correspond to the days of the week.</li>
 </ul>
 

@@ -14,19 +14,21 @@ h1{
     font-family:Frutiger W01;
     font-size: 40px;
     font-weight: bold;
-    text-align: center;
+    text-align: left;
     font-display: center;
 }
+
 
 p{
     font-family:'Catamaran', sans-serif;
     font-weight:inherit;
     font-size: 25px;
-    font-display: center;
+    
 }
 
 .container{
-    
+     display: inline-table;
+     float:left;
     font-size: 24px;
     font-family:'Catamaran', sans-serif;
     line-height:24px;
