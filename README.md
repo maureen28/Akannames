@@ -12,9 +12,12 @@ By *Maureen Wairimu.*
 
 #### Technologies used;
 > HTML
+> Bootstrap
 > JavaScript
 > CSS
 
 #### Contact information.
+For more information contact us via;
 > Email:murimimaureen8@gmail.com
 > Tel :+254799280333
+

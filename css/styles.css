@@ -3,14 +3,9 @@
     padding: 0;
 }
 body {
-justify-content: center;
-align-items: center;
-font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-font-size: 0px;
-}
-.cover{
-    background-image:url(images/pexels-photo.jpg);
-    height: 80px;
-    background-size: cover;
-    background-repeat: no-repeat;
+background-image: url("/Images/akan.jpg");
+background-position: center center;
+background-repeat: no-repeat;
+height: 100vh;
+background-size: cover;
 }
