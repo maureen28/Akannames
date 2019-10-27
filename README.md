@@ -1,15 +1,21 @@
 # AKAN NAMES.
 
 ## Description
-This application takes in a users' birthday and then depending on what day of the week they were born and their gender outputs it gives them an Akan Name.
+This application takes in a users' <em>birthday</em> and then depending on what day of the week they were born and their gender outputs it gives them an Akan Name.
 
 By *Maureen Wairimu.*
 
+### Screenshot
+
 ### Set-up Instructions
-You can clone the repo and open the index.html file using your google Chrome.
+You can clone the repo at https://github.com/maureen28/Akannames.git and open the index.html file using your google Chrome.
 
 
-### Behaviour Driven Development
+### BDD
+<ul>
+<li>Ensure that the date and month is valid</li>
+<li>Output to their user an Akan Name depending on their gender and should correspond to the days of the week.</li>
+</ul>
 
 #### Technologies used;
 > HTML

@@ -22,13 +22,11 @@ p{
     font-family:'Catamaran', sans-serif;
     font-weight:inherit;
     font-size: 25px;
-    text-align: center;
     font-display: center;
 }
 
 .container{
-    text-align: center;
-    justify-items: center;
+    
     font-size: 24px;
     font-family:'Catamaran', sans-serif;
     line-height:24px;
