@@ -13,7 +13,7 @@ var year=document.getElementById('year').value;
 var gender=document.getElementById('gender').value;*/
 
 if (gender==1){
-alert (maleNames[day])
+ (maleNames[day])
 }else{
 alert("Your Akan name is")
 }

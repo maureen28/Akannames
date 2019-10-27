@@ -3,9 +3,21 @@
     padding: 0;
 }
 body {
-background-image: url("/Images/akan.jpg");
+background-image: url("/Images/wood.jpg");
 background-position: center center;
 background-repeat: no-repeat;
 height: 100vh;
 background-size: cover;
+}
+h1,p{
+    font-family: 'Catamaran', sans-serif;
+    font-size: 30px;
+    text-align:center;
+    position: center;
+}
+.container{
+    text-align: center;
+    justify-items: center;
+   
+
 }
