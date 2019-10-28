@@ -6,7 +6,7 @@ This application takes in a users' <em>birthday</em> and then depending on what 
 By *Maureen Wairimu.*
 
 ### Screenshot
- <img src="./Images/screenshot.jpg" alt="Akan" title="Image Before Entering Details" width="300px">
+ <img src="./Images/screenshot.jpg" alt="Akan" title="Image Before Entering Details" width="400"/>
  
 ### Set-up Instructions
 You can clone the repo at https://github.com/maureen28/Akannames.git and open the index.html file using your google Chrome.
