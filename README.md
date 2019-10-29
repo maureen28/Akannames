@@ -1,9 +1,9 @@
 # AKAN NAMES.
 
+## Author : Maureen Wairimu.
+
 ## Description
 This application takes in a users' <em>birthday</em> and then depending on what day of the week they were born and their gender outputs it gives them an Akan Name.
-
-By *Maureen Wairimu.*
 
 ### Screenshot
  <img src="./Images/screenshot.jpg" alt="Akan" title="Image Before Entering Details" width="400"/>

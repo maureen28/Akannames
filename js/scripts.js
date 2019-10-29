@@ -9,8 +9,6 @@
     var genderM=document.getElementById('rd1');
     var genderF=document.getElementById('rd2');
     
-
-    
     
     if(year ==""){
       alert("Input the correct year");
@@ -24,11 +22,12 @@
     }
     
     if (rd1.checked==true){
-     alert("You were born on " +daysOfWeek[day]+ " Your name is "+maleNames[day])
+        alert("Twi:Maakaye were born on " +daysOfWeek[day]+ " Your name is "+maleNames[day])
 
     }
     if(rd2.checked==true){
-     alert(" You were born on " +daysOfWeek[day]+ " Your name is " +femaleNames[day])
+        alert("Twi:Maakaye were born on " +daysOfWeek[day]+ " Your name is "+femaleNames[day])
+
     }
  }
 
