@@ -9,6 +9,7 @@
     var genderM=document.getElementById('rd1');
     var genderF=document.getElementById('rd2');
     
+    alert("Please enter details")
     
     if(year ==""){
       alert("Input the correct year");
