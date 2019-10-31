@@ -16,15 +16,16 @@ body {
     font-size: 40px;
     font-weight: bold;
     text-align: center;
-    font-display:center;
+    font-display: center;
 }
-p {
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: initial;
-    font-size: 25px;
-    text-align: left;
-    font-display:left;
 
+col {
+    float: left;
+    font-family: 'Catamaran', sans-serif;
+    font-weight: initial;
+    font-size: 40px;
+    text-align: left;
+    font-display: left;
 }
 
 .container {
@@ -32,5 +33,5 @@ p {
     font-size: 30px;
     font-family: 'Catamaran', sans-serif;
     line-height: 30px;
-    text-align: left,center;
+    text-align: left, center;
 }
