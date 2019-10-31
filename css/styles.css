@@ -1,34 +1,38 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
+
 body {
-background-image:url("../Images/afrika.jpg");
-background-position: center center;
-background-repeat: no-repeat;
-height: 100vh;
-background-size: cover;
+    background-image: url("../Images/afrika.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
 }
 
-h1{
-    font-family:Frutiger W01;
+h1 {
+    font-family: Frutiger W01;
     font-size: 40px;
     font-weight: bold;
-    text-align: justify;
-    font-display: center;
+    text-align: center;
+    font-display: middle center;
 }
 
-p{
-    font-family:'Catamaran', sans-serif;
-    font-weight:inherit;
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: initial;
     font-size: 25px;
-    
+    text-align: left;
+    font-display:left;
+
 }
 
-.container{
-     display: inline-table;
-     float:left;
-    font-size: 24px;
-    font-family:'Catamaran', sans-serif;
-    line-height:24px;
+.container {
+    display: inline-flexbox float;
+    font-size: 30px;
+    font-family: 'Catamaran', sans-serif;
+    line-height: 30px;
+    text-align: left;
+    font-display:right;
 }

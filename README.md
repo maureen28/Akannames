@@ -10,6 +10,7 @@ This application takes in a users' <em>birthday</em> and then depending on what 
  
 ### Set-up Instructions
 You can clone the repo at https://github.com/maureen28/Akannames.git and open the index.html file using your google Chrome.
+You can click the live link at https://maureen28.github.io/Akannames/.
 
 
 ### BDD
