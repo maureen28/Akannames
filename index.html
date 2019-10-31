@@ -6,27 +6,33 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
-    <title>Ghanian Names</title>
     <link href="css/styles.css" rel="stylesheet" type="text/css">
+    <title>Ghanian Names</title>
 </head>
 
 <body>
-<div class="container">
     <div class="Jumbotron">
-    <h1><strong>Akan Names </strong></h1>
-</div>
-</div>
-    <p><strong>The Akan community,from Ghana name their children
-            <br> after the day of the week they were born.</strong></p>
+        <h1><strong>Akan Names </strong></h1>
+    </div>
+    <br>
+    <p><strong>he Akan people of Ghana frequently name their children after the day of the week they were born and the
+            order in which they were born. These "day names" have further meanings concerning the soul and character of
+            the person. Middle names have considerably more variety and can refer to their birth order, twin status, or
+            an ancestor's middle name.
+
+            This naming tradition is shared throughout West Africa and the African diaspora. During the 18th–19th
+            centuries, slaves in the Caribbean from the region that is modern-day Ghana were referred to as Coromantees.
+            Many of the leaders of slave rebellions had "day names" including Cuffy or Kofi, Cudjoe or Kojo, and Quamina
+            or Kwame/Kwamina..</strong></p>
     <P>It is said that the names describe the <em>Character</em> of the person</P>
-    <br>
-    <p>Discover your <em>Akan Name!!! </em></p>
-    <br>
-</div>
-    
-        <form>
+    <form>
+        <div class="container col-3">
+            <p>Discover your <em>Akan Name!!! </em></p>
             <div class="form-group">
                 <input type="number" class="form-control-md" placeholder="Date of birth" id="date" />
+            </div>
+            <div class="form-group">
+                <input type="number" class="form-control-md" placeholder="Century of birth" id="century" />
             </div>
             <div class="form-group">
                 <input type="number" class="form-control-md" id="month" placeholder="month of birth" />
@@ -40,12 +46,12 @@
                 <input type="radio" id="rd2" placeholder="gender" name="Gender"
                     value="female"><strong>female</strong><br>
             </div>
-            <div class="form-group">
-                <input type="submit" class="btn btn-danger" onclick=xx()>
-                <div>
-                    <scripts src="js/scripts.js"></scripts>
-                </div>
-        </form>
+            <button onclick="x()" class="btn btn-danger">Submit</button>
+        </div>
+        </div>
+        <script src="js/scripts.js"></script>
+        </div>
+    </form>
 </body>
 
 </html>
